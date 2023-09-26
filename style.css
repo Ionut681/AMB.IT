@@ -1,0 +1,56 @@
+
+body {
+ background-color: black ;
+}    
+
+body {
+ background-position: center ;
+}
+
+h1 {
+ color: white ;
+}
+
+h3 {
+ color: yellow ;
+}
+
+p {
+ color: white ;
+}
+
+button {
+ color: red ;
+}
+
+button {
+ background-color: lime ;
+}
+
+h4 {
+ color: white ;
+}
+
+h5 {
+ color: white ;
+}
+
+p {
+ color: red ;
+}
+
+p {
+ color: white ;
+}
+
+img {
+ width:200px;
+ height:60px;
+}
+
+button {
+ width:125px;
+ height:40px;
+}
+
+
